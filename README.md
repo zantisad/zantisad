@@ -1,14 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Bienvenid@-A-Mi-Pagina-De-Github!)
 
-
 <p align="center">
   <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 </p>  
 <h2 align="center">Hola👋, Soy Santi</h2>
-
-<br>
-
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
