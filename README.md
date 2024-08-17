@@ -8,6 +8,8 @@
 
 <h2 align="center">Hola👋, Soy Santi</h2>
 
+<br>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -25,19 +27,26 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?)
-
-
-
+  <br>
+  <br>
 
 ## 👨🏻‍💻 Sobre mi
+<br>
 
-🔭 &nbsp;Soy un estudiante de Desarrollo con objetivos y metas claras.\
-🌱 &nbsp;Estoy centrado en el Desarrollo web y Mobile.\
-🛠️ &nbsp;Tengo proyectos en proceso de Paginas web avanzadas y Aplicaciones mobiles monetizables.\
-💼 &nbsp;Estoy abierto a cualquier trabajo ya sea de Freelance o en una Empresa.\
-💡 &nbsp;Me gusta mucho aprender nuevas tecnologias y ponerme a prueba con retos complejos.\
-💬 &nbsp;Si gustas tener una charla conmigo no lo dudes, me encanta hablar de tecnologia, solo escríbeme.\
-✉️ &nbsp;Por cualquier consulta dejo mi correo! santigonzalez20032003@gmail.com\
+🌱 Mi enfoque principal está en el Desarrollo web y Mobile.
+
+🛠️ Actualmente, estoy trabajando en proyectos avanzados de páginas web y aplicaciones móviles con potencial de monetización.
+
+💼 Estoy abierto a oportunidades laborales, tanto como freelance o dentro de una empresa.
+
+💡 Disfruto aprendiendo nuevas tecnologías y enfrentándome a desafíos complejos para seguir creciendo.
+
+💬 Si te interesa conversar sobre tecnología, ¡no dudes en escribirme! Me encanta compartir ideas y aprender de otros.
+
+✉️ Para cualquier consulta, puedes contactarme a través de mi correo: santigonzalez20032003@gmail.com
+
+<br>
+
 
 <div align="center"> </div>
 
