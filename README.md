@@ -4,26 +4,11 @@
 <p align="center">
   <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 </p>  
-
 <h2 align="center">Hola👋, Soy Santi</h2>
 
 <br>
 
-## 👨🏻‍💻 Sobre mi
 
-🌱 Mi enfoque principal está en el Desarrollo web y Mobile.
-
-🛠️ Actualmente, estoy trabajando en proyectos avanzados de páginas web y aplicaciones móviles con potencial de monetización.
-
-💼 Estoy abierto a oportunidades laborales, tanto como freelance o dentro de una empresa.
-
-💡 Disfruto aprendiendo nuevas tecnologías y enfrentándome a desafíos complejos para seguir creciendo.
-
-💬 Si te interesa conversar sobre tecnología, ¡no dudes en escribirme! Me encanta compartir ideas y aprender de otros.
-
-✉️ Para cualquier consulta, puedes contactarme a través de mi correo: santigonzalez20032003@gmail.com
-
-<br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -45,7 +30,21 @@
   <br>
   <br>
 
+## 👨🏻‍💻 Sobre mi
 
+🌱 Mi enfoque principal está en el Desarrollo web y Mobile.
+
+🛠️ Actualmente, estoy trabajando en proyectos avanzados de páginas web y aplicaciones móviles con potencial de monetización.
+
+💼 Estoy abierto a oportunidades laborales, tanto como freelance o dentro de una empresa.
+
+💡 Disfruto aprendiendo nuevas tecnologías y enfrentándome a desafíos complejos para seguir creciendo.
+
+💬 Si te interesa conversar sobre tecnología, ¡no dudes en escribirme! Me encanta compartir ideas y aprender de otros.
+
+✉️ Para cualquier consulta, puedes contactarme a través de mi correo: santigonzalez20032003@gmail.com
+
+<br>
 
 <div align="center"> </div>
 
