@@ -8,26 +8,23 @@
 
 <h2 align="center">Hola👋, Soy Santi</h2>
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-## 💻 Habilidades y Lenguajes:
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-333333?style=flat&logo=tailwindcss)
 
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=white)
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-green?style=flat&logo=css3&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-orange?style=flat&logo=github&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Sass-pink?style=flat&logo=sass&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-darkblue?style=flat&logo=tailwindcss&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/BootStrap-purple?style=flat&logo=bootstrap&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/ReactJS-blue?style=flat&logo=react&logoColor=white">
-
-
-
-
-
-
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?)
 
 
 
