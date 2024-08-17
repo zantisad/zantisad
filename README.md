@@ -53,7 +53,7 @@
 ## Contactame 👋:
 
 <p>
-    <a href="(https://www.linkedin.com/in/santiago-gonzalez-dev/)">
+    <a href="https://www.linkedin.com/in/santiago-gonzalez-dev/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
     </a> 
 </p>
