@@ -27,9 +27,9 @@
 
 ## 👨🏻‍💻 Sobre mi
 
-🌱 Mi enfoque principal está en el Desarrollo web y Mobile.
+🌱 Mi enfoque principal está en el Desarrollo web
 
-🛠️ Actualmente, estoy trabajando en proyectos avanzados de páginas web y aplicaciones móviles con potencial de monetización.
+🛠️ Actualmente, estoy trabajando en proyectos avanzados de páginas web
 
 💼 Estoy abierto a oportunidades laborales, tanto como freelance o dentro de una empresa.
 
