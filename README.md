@@ -37,7 +37,7 @@
 
 💬 Si te interesa conversar sobre tecnología, ¡no dudes en escribirme! Me encanta compartir ideas y aprender de otros.
 
-✉️ Para cualquier consulta, puedes contactarme a través de mi correo: santigonzalez20032003@gmail.com
+✉️ Para cualquier consulta, puedes contactarme a través de mi correo: contactosantiagog@gmail.com
 
 <br>
 
